@@ -7,4 +7,5 @@
 # Download NodeJS: https://nodejs.org/en/
 
 # Good tools:
-# Sublime Editor 
+# Sublime Editor: https://www.sublimetext.com/
+
