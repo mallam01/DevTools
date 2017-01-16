@@ -6,5 +6,5 @@
 # Download Webstorm: https://www.jetbrains.com/webstorm/
 # Download NodeJS: https://nodejs.org/en/
 
-# Good tools" 
+# Good tools:
 # Sublime Editor 
