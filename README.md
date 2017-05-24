@@ -17,10 +17,16 @@
 # Download JDK: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 -----------------------------------------------------------
 # BUILD & DEPLOYMENT tools:
-# Jenkins(to build packages and milestones from SVN): https://jenkins.io/ 
-# Nexus(to memorize the history of the builds): https://www.sonatype.com/nexus-repository-sonatype
-# Elevation Mgr(manage code in environments from packaging in test regions to production)
-# SonarSource(for code quality and review): https://www.sonarsource.com/
+# Jenkins: 
+- To build packages and milestones from SVN Repositry 
+- Download: https://jenkins.io/ 
+# Nexus(
+- To memorize the history of the builds
+- Downlaod: https://www.sonatype.com/nexus-repository-sonatype
+# Elevation Mgr:
+- (manage code in environments from packaging in test regions to production)
+# SonarSource
+- (for code quality and review): https://www.sonarsource.com/
 -----------------------------------------------------------
 # Good tools:
 # Sublime Editor: https://www.sublimetext.com/
