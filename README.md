@@ -9,7 +9,7 @@
 # Download NodeJS: https://nodejs.org/en/
 # Download Bootstrap: http://getbootstrap.com/
 -----------------------------------------------------------
-# REST Web Service tool:
+# REST Web Service tools:
 # Postman: https://www.getpostman.com/
 -----------------------------------------------------------
 # JAVA tools:
