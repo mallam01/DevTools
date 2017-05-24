@@ -44,7 +44,7 @@
 - To test Java code stuff.
 -----------------------------------------------------------
 # WEB/DATA ANALYTICS tools:
-# DTM(Dynamic Tag Manager) tool to implement Adobe & DC.
-# Google Analytics.
-# Webtrends.
+- DTM(Dynamic Tag Manager) tool to implement Adobe & DC.
+- Google Analytics.
+- Webtrends.
 
