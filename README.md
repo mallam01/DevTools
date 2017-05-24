@@ -49,4 +49,25 @@
 - DTM(Dynamic Tag Manager) tool to implement Adobe & DC.
 - Google Analytics.
 - Webtrends.
+- Ghostery Privacy Browser: to know what’s the analytics tool uses in any website. 
+- Facebook analytics: Free analytics tool. 
+- Yahoo analytics https://developer.yahoo.com/analytics/
+- Google DoubleClick - https://www.doubleclickbygoogle.com/solutions/digital-marketing/campaign-manager/
+- Adobe Analytics - http://www.adobe.com/marketing-cloud/web-analytics.html#x
+- Charles https://www.charlesproxy.com/
+
+** How to check Adobe at anysite: 
+- Run httpwatch on any site and look for /b/ss
+- The URL contains /b/ss contains the query string which have the data tracked for the page. Adobe Analytics Server gets the URL and
+ start look for the domain company staging (prd or test region).  
+
+
+
+
+
+
+
+ 
+
+
 
