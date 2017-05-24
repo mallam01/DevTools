@@ -36,8 +36,9 @@
 - By writing stories in the feature file and read it in the step definision Java code.
 - Feature file is a property file has senarions (WHEN xxy THEN abc GIVEN 123) taged like @test @mannual @automation.
 - Step definistion is a Java class to map the feature file int a code and use the cucumber built in methods for testing. 
-- Cucusmber is a test automation tool developed using Java & Selenium.
+- Cucusmber is a test automation tool developed using Java and it has lots of built in methods which can test the browser functionalities and navigations as well and it uses Selenium since it's a browser automation tool. 
 # Selenium:
+- Web browser automation tool. 
 # Jasmine:
 - To test AngularJS stuff.
 # Junit:
