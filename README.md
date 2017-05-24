@@ -24,9 +24,10 @@
 - To memorize the history of the builds
 - Downlaod: https://www.sonatype.com/nexus-repository-sonatype
 # Elevation Mgr:
-- (manage code in environments from packaging in test regions to production)
+- Manage code in environments from packaging in test regions to production.
 # SonarSource
-- (for code quality and review): https://www.sonarsource.com/
+- For code quality and review
+- Download: https://www.sonarsource.com/
 -----------------------------------------------------------
 # Good tools:
 # Sublime Editor: https://www.sublimetext.com/
