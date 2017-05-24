@@ -38,7 +38,8 @@
 - Step definistion is a Java class to map the feature file int a code and use the cucumber built in methods for testing. 
 - Cucusmber is a test automation tool developed using Java and it has lots of built in methods which can test the browser functionalities and navigations as well and it uses Selenium since it's a browser automation tool. 
 # Selenium:
-- Web browser automation tool. 
+- Web browser automation tool.
+- Download: http://www.seleniumhq.org/
 # Jasmine:
 - To test AngularJS stuff.
 # Junit:
