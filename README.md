@@ -22,15 +22,14 @@
 # Elevation Mgr(manage code in environments from packaging in test regions to production)
 # SonarSource(for code quality and review): https://www.sonarsource.com/
 -----------------------------------------------------------
-# WEB/DATA ANALYTICS tools:
-# DTM(Dynamic Tag Manager) tool for implementing Adobe & DC.
-# Google Analytics.
-# Webtrends.
------------------------------------------------------------
 # PERFORMACE tools: 
 # GTMetrix: https://gtmetrix.com/
 -----------------------------------------------------------
 # Good tools:
 # Sublime Editor: https://www.sublimetext.com/
-
+-----------------------------------------------------------
+# WEB/DATA ANALYTICS tools:
+# DTM(Dynamic Tag Manager) tool to implement Adobe & DC.
+# Google Analytics.
+# Webtrends.
 
