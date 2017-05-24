@@ -10,7 +10,7 @@
 # Download Bootstrap: http://getbootstrap.com/
 -----------------------------------------------------------
 # REST WEB SERVICES tools:
-# Postman: https://www.getpostman.com/
+# Downlaod Postman: https://www.getpostman.com/
 -----------------------------------------------------------
 # JAVA tools:
 # Download STS (Spring Tool Suite): https://spring.io/tools
