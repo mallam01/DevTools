@@ -27,7 +27,7 @@
 # Google Analytics.
 # Webtrends.
 -----------------------------------------------------------
-# PERFORMACE tools:
+# PERFORMACE tools: 
 # GTMetrix: https://gtmetrix.com/
 -----------------------------------------------------------
 # Good tools:
