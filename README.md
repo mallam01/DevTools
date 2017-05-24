@@ -1,20 +1,28 @@
 # DevTools
 -----------------------------------------------------------
 # SET UP local workspace:
-# Download Git Desktop: https://desktop.github.com/
-# Download GitHub Desktop: https://desktop.github.com/ 
+# Git Desktop: 
+- Download: https://desktop.github.com/
+# GitHub Desktop:
+- Download: https://desktop.github.com/ 
 -----------------------------------------------------------
 # WEB DYNAMIC Tools:
-# Download Webstorm: https://www.jetbrains.com/webstorm/
-# Download NodeJS: https://nodejs.org/en/
-# Download Bootstrap: http://getbootstrap.com/
+# Webstorm: 
+- Download: https://www.jetbrains.com/webstorm/
+# NodeJS: 
+- Download: https://nodejs.org/en/
+# Bootstrap: 
+- Download: http://getbootstrap.com/
 -----------------------------------------------------------
 # REST WEB SERVICES tools:
-# Downlaod Postman: https://www.getpostman.com/
+# Postman: 
+- Download: https://www.getpostman.com/
 -----------------------------------------------------------
 # JAVA tools:
-# Download STS (Spring Tool Suite): https://spring.io/tools
-# Download JDK: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+# STS (Spring Tool Suite):
+- Download: https://spring.io/tools
+# Download JDK:
+- Download: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 -----------------------------------------------------------
 # BUILD & DEPLOYMENT tools:
 # Jenkins: 
@@ -30,13 +38,16 @@
 - Download: https://www.sonarsource.com/
 -----------------------------------------------------------
 # Good tools:
-# Sublime Editor: https://www.sublimetext.com/
+# Sublime Editor:
+- Download: https://www.sublimetext.com/
 -----------------------------------------------------------
 # PERFORMACE tools:
-# GTMetrix: https://gtmetrix.com/
+# GTMetrix:
+- Download: https://gtmetrix.com/
 -----------------------------------------------------------
 # AGILE tools:
-# Download JIRA: https://www.atlassian.com/software/jira
+# JIRA:
+- Download: https://www.atlassian.com/software/jira
 -----------------------------------------------------------
 # TESTING tools:
 # Cucumber for test automation:
