@@ -20,12 +20,12 @@
 # Jenkins: 
 - To build packages and milestones from SVN Repositry 
 - Download: https://jenkins.io/ 
-# Nexus(
+# Nexus Repository Manager:
 - To memorize the history of the builds
 - Downlaod: https://www.sonatype.com/nexus-repository-sonatype
 # Elevation Mgr:
 - Manage code in environments from packaging in test regions to production.
-# SonarSource
+# SonarSource:
 - For code quality and review
 - Download: https://www.sonarsource.com/
 -----------------------------------------------------------
