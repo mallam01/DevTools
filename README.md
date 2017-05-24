@@ -32,15 +32,16 @@
 # Download JIRA: https://www.atlassian.com/software/jira
 -----------------------------------------------------------
 # TESTING tools:
-# Cucumber for test automation 
+# Cucumber for test automation:
 - By writing stories in the feature file and read it in the step definision Java code.
 - Feature file is a property file has senarions (WHEN xxy THEN abc GIVEN 123) taged like @test @mannual @automation.
 - Step definistion is a Java class to map the feature file int a code and use the cucumber built in methods for testing. 
 - Cucusmber is a test automation tool developed using Java & Selenium.
-# Selenium 
-# Jasmine
+# Selenium:
+# Jasmine:
 - To test AngularJS stuff.
-# Junit - To test Java code stuff.
+# Junit:
+- To test Java code stuff.
 -----------------------------------------------------------
 # WEB/DATA ANALYTICS tools:
 # DTM(Dynamic Tag Manager) tool to implement Adobe & DC.
