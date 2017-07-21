@@ -1,0 +1,6 @@
+1- Create JIRA ticket
+2- Create branch from the development section. 
+3- Then I should login in to the Bitbucket tool. 
+4- Then from the Bitbucket, I choice create my branck from the master version. 
+5- Check on JIRA and Bamboo that the brach has been created. 
+6- From Bitbucket I should get the HTTP url of the code to pass it to Webstorm. 
