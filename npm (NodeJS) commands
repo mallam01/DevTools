@@ -1,0 +1,4 @@
+npm install grunt -g // install grunt 
+npm install grunt-cli -g // install grunt tasks 
+npm install // install npm 
+echo %PATH%" // to ensure that npm and node.js configured to your machine.
