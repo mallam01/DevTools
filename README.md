@@ -45,9 +45,20 @@
 # GTMetrix:
 - Download: https://gtmetrix.com/
 -----------------------------------------------------------
-# AGILE tools:
+# ATLASSIAN tools:
 # JIRA:
-- Download: https://www.atlassian.com/software/jira
+Plan, track, and release world-class software with the #1 software development tool used by agile teams.
+Download: https://www.atlassian.com/software/jira
+# Confluence:
+Spend less time hunting things down and more time getting things done. Organize your work, create documents, and discuss everything in one place.
+Donwload: https://www.atlassian.com/download
+# BitBucket:
+Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship software, as a team.
+Donwload: https://www.atlassian.com/download
+# Bamboo:
+Continuous integration, deployment, and release management.
+Donwload: https://www.atlassian.com/download
+
 -----------------------------------------------------------
 # TESTING tools:
 # Cucumber for test automation:
