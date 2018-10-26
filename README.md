@@ -43,6 +43,9 @@
 # Good tools:
 # Sublime Editor:
 - Download: https://www.sublimetext.com/
+
+# Brackets Project Editor:
+- Download: http://brackets.io/
 -----------------------------------------------------------
 # PERFORMACE tools:
 # GTMetrix:
