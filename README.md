@@ -23,6 +23,9 @@
 - Download: https://spring.io/tools
 # Download JDK:
 - Download: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+# Download JDK Java EE:
+- Download: https://www.oracle.com/technetwork/java/javaee/downloads/index.html
+
 -----------------------------------------------------------
 # BUILD & DEPLOYMENT tools:
 # Jenkins: 
