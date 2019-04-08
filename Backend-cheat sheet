@@ -1,0 +1,6 @@
+#How to cache resultsets (DataBase results) in spring boot
+https://spring.io/guides/gs/caching/
+
+#How to scan component in spring to make it avaliable in the container 
+https://www.mkyong.com/spring/spring-auto-scanning-components/
+
