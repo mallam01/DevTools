@@ -1,3 +1,5 @@
+
+###### GENERAL COMMANDS #####
 git init   // initiate git on your local 
 git add .  // add all the files to the branch
 git commit -m "MESSAGE"  // commit all the changes to the master. 
@@ -5,7 +7,6 @@ git push // push the changes from your local to the repositry. publish local com
 git status // check status 
 git branch -av // show all the local and remote branches 
 git checkout BRANCH_NAME // point to certian branch 
-
 
 ###### MERGE WITH THE MASTER #####
 git checkout master
@@ -21,3 +22,5 @@ git merge --abort
 ###### CHECKOUT BRANCH/FILES #####
 git checkout BRANCH_NAME // point to certian branch 
 git checkout FILE_PATH_ON_BITBUCKET
+
+
