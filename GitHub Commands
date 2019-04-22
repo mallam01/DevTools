@@ -7,3 +7,9 @@ git branch -av // show all the local and remote branches
 git checkout BRANCH_NAME // point to certian branch 
 git reset --hard
 git merge --abort 
+
+###### MERGE WITH THE MASTER #####
+git checkout master
+git pull origin master
+git merge BRANCH_NAME
+git push origin master
