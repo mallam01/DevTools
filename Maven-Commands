@@ -1,0 +1,5 @@
+mvn clean install 
+
+
+###### RUN MUTATION TEST #####
+mvn org.pitest:pitest-maven:mutationCoverage
