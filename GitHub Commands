@@ -10,14 +10,21 @@ git checkout BRANCH_NAME // point to certian branch
 
 ###### MERGE WITH THE MASTER #####
 git checkout master
-git pull origin master
-git merge BRANCH_NAME
-git push origin master
+git pull
+git status // no changes locally 
+checkout BRANCH_NAME
+git merge master 
+>>> modify the changes >> tool > comapre
+git add .
+git commit -m ""
+git push
 
 ###### REVERT CHANGES #####
 git reset --hard 
 git reset --hard head~;
 git merge --abort 
+git clean fd 
+git diff 
 
 ###### CHECKOUT BRANCH/FILES #####
 git checkout BRANCH_NAME // point to certian branch 
