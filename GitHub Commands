@@ -30,4 +30,5 @@ git diff
 git checkout BRANCH_NAME // point to certian branch 
 git checkout FILE_PATH_ON_BITBUCKET
 
-
+###### IGNORE/SKIP FILE #####
+git update-index --assume-unchanged <FILE_NAME>
